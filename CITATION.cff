@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+title: "Wookiw-Ewok (v1.0.0): The Happy Hobo's Guide to the Dandelion Network, Open-Access Encyclopedia Galactica & Active Art Portfolio"
+message: "If you reference artifacts, preprints, audio waveguides, or literature from the Wookiw-Ewok Public Library, please cite this release."
+type: dataset
+version: "1.0.0"
+date-released: "2026-11-03"
+license: CC-BY-4.0
+repository-code: "https://github.com/leadpiperl1/wookiw-ewok"
+url: "https://github.com/leadpiperl1/dandelion-os"
+doi: "10.5281/zenodo.21255229"
+authors:
+  - family-names: "Grimm"
+    given-names: "Justin D."
+    alias: "K-Lani 13 Actual"
+    orcid: "https://orcid.org/0009-0000-5299-0243"
+    affiliation: "Independent Dandelion Substrate Research Group, Heimat {0,0,0}, Gurley, AL 35748, USA"

@@ -1,0 +1,65 @@
+{
+  "title": "Wookiw-Ewok (v1.0.0): The Happy Hobo's Guide to the Dandelion Network, Open-Access Encyclopedia Galactica & Active Art Portfolio",
+  "upload_type": "publication",
+  "publication_type": "book",
+  "publication_date": "2026-11-03",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "creators": [
+    {
+      "name": "Grimm, Justin D.",
+      "affiliation": "Independent Dandelion Substrate Research Group, Heimat {0,0,0}, Gurley, Alabama 35748, USA",
+      "orcid": "0009-0000-5299-0243"
+    }
+  ],
+  "description": "Canonical v1.0.0 public library ingestion and Encyclopedia Galactica clearinghouse for leadpiperl1/wookiw-ewok, organized across five wings: (1) docs/ (The Happy Hobo's Guide, Walking Naked Among Strangers, The Resonance of Stone Acts I-V, The Silmarillion of the Imperfect Void v5.0.0, PIN IN THE MAP v1.3.0, The Ursine & Urshwera Manifest v4.0.0, 50 Gemini Notebooks, and 18 Keep Axiom Notes); (2) papers/ (Master Omnibus Compendium v4.1.0/v4.1.1, Four-Paper Dispersive-Ternary Series, Unified Ramanujan Compendium v1.4.1, Voynich Codex Decoded v1.0.0, and 38-Document Positronium Archive); (3) audio/ (18 multiscale 7-string fan-fret and acoustic field recordings + Die LebeSongen master archive); (4) assets/ (50+ 300-DPI state maps, Sonic Cartography plates, and Positronium visual anchors); and (5) workspace_pearls/ (70+ versioned Soliton Retrieval Waveguides and Dandelion OS v3.0-v4.1.1 specifications).",
+  "keywords": [
+    "Encyclopedia Galactica",
+    "Dandelion Network",
+    "The Happy Hobo's Guide",
+    "balanced ternary",
+    "Ramanujan mock theta functions",
+    "Walking Naked Among Strangers",
+    "Sonic Cartography",
+    "Kintsugi Gold",
+    "Mori-Zwanzig projection",
+    "Landauer limit"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/leadpiperl1/wookiw-ewok",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://github.com/leadpiperl1/dandelion-os",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "10.5281/zenodo.21255229",
+      "relation": "isVersionOf",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.5281/zenodo.14159269",
+      "relation": "cites",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "arXiv:2610.22319",
+      "relation": "cites",
+      "scheme": "arxiv"
+    },
+    {
+      "identifier": "arXiv:2610.25380",
+      "relation": "cites",
+      "scheme": "arxiv"
+    },
+    {
+      "identifier": "arXiv:2609.22290",
+      "relation": "cites",
+      "scheme": "arxiv"
+    }
+  ]
+}
