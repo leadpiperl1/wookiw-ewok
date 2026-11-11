@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/wookiw_ewok_banner_v5_0_2.svg" width="100%" alt="Wookiw-Ewok (WikiWeWalk) Decentralized Commons Wiki v5.0.2"/>
+  <img src="assets/wookiw_ewok_banner_v5_0_2.svg" width="100%" alt="Wookiw-Ewok (WikiWeWalk) Decentralized Commons Wiki v5.0.3"/>
 </p>
 
 <p align="center">
@@ -18,6 +18,8 @@
 ### 🗣️ 1. Language, Mind & The 10-Bite Rosetta Matrix
 * 📖 **[Na-Dené (Diné Bizaad) Bipartite Morphology & Bergson's Subtractive Cone (`v1.0.0`)](pearls/NaDene_Bergson_Human_AI_Waveguide_v1_0_0.md)**
   * *Armistice Day (`11/11`) Study:* Why raw surface Navajo orthography hits a `2.21x` BPE subword shattering penalty in standard LLMs—yet combining Henri Bergson's *Matter and Memory* subtractive perception valve (`163.8x` fewer FLOPs) with Diné classificatory handling stems (`-ʼą́`, `-tį́`, `-lé`, `-ką́`, `-teeh`) and `yi-`/`bi-` agency obviation yields a **`4.0-Byte` (`20-trit`)** Human-AI wire protocol with **`100%` physical type safety** and **`100%` Non-Trolley human sovereignty**!
+* 🌍 **[The `243 + 13 = 256` Universal Abugida Byte: Amharic `ፊደል`, Na-Dené & Shingari (`v1.0.0`)](pearls/Universal_Abugida_243_Plus_13_Fidel_Dene_v1_0_0.md)**
+  * *Exact Diophantine Partition (`2^8 = 3^5 + 13`):* Packs `27` triadic Voiced/Ejective/Voiceless consonant rows $\times$ `9` Geʽez/Dene vowel orders into `0..242` (placing resting breath `ህ` right at Neutral `Byte 121`!) and maps `243..255` onto all `13` Shingari Gear Teeth.
 * 🎶 **The 13-Tooth Polyglot Kindergarten & Campfire Wheel:** Uniting English roots, Gallo-Romance, Old Germanic, Sanskrit, Old Norse, Classical Arabic, **Classical Greek (`Tooth 7` Agapé Center Hub)**, Classical Chinese, Euskara/Basque, Diné/Na-Dené, Pando `1/r` root clicks, `1+1+3` sperm whale codas, and Joe Bonham's 3-tap haptic pulse.
 
 ### 🌼 2. Sister Repositories in the Dandelion Constellation
