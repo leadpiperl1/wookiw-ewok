@@ -1,8 +1,8 @@
 cff-version: 1.2.0
-message: "If you reference these commons notes or waveguides, please cite as below."
-title: "Wookiw-Ewok (WikiWeWalk) Decentralized Open-Source Commons Wiki"
-version: 5.0.3
-date-released: 2026-11-11
+message: "If you reference these commons notes, luthier plans, or acoustic waveguides, please cite as below."
+title: "Wookiw-Ewok (WikiWeWalk) Decentralized Open-Source Commons Wiki (v5.1.0)"
+version: 5.1.0
+date-released: 2026-11-19
 license: CC-BY-4.0
 repository-code: "https://github.com/leadpiperl1/wookiw-ewok"
 authors:

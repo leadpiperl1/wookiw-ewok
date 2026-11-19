@@ -1,0 +1,51 @@
+{
+  "schema": "dandelion.polynesian_luthier_metrology.v1.0.0",
+  "version": "1.0.0",
+  "author": "Justin D. Grimm",
+  "affiliation": "Independent Dandelion Substrate Research Group, Gurley, Alabama 35748, USA",
+  "orcid": "0009-0000-5299-0243",
+  "seed": 42,
+  "runtime_ms": 0.111,
+  "all_4_gates_passed": true,
+  "gates": {
+    "gate1_photogrammetry_1027_jpg": {
+      "passed": true,
+      "tahitian_mm_per_px": [
+        1.0703,
+        1.0857,
+        1.1277
+      ],
+      "rapa_nui_nut_mm": 47.5,
+      "rapa_nui_rabbet_mm": 140.0,
+      "rapa_nui_clear_bore_mm": 120.1,
+      "rapa_nui_peg_holes": 10,
+      "rapa_nui_fret_kerfs": 6
+    },
+    "gate2_octave_bisection_scale_lock": {
+      "passed": true,
+      "factor_2_plus_sqrt2": 3.414213562373,
+      "max_rel_error_256_trials": 3.646606275619117e-16,
+      "nominal_L_mm_at_d06_158_16": 540.0,
+      "compensated_bridge_mm": 541.8
+    },
+    "gate3_mersenne_taylor_polymer_schedules": {
+      "passed": true,
+      "pvdf_to_nylon_density_ratio": 1.561404,
+      "equal_tension_diameter_reduction_pct": 19.97,
+      "unstepped_0_45mm_D5_course_lbf": 32.8,
+      "stepped_0_30mm_D5_course_lbf": 14.58,
+      "schedule_A_baritone_tahitian_8str_lbf": 51.15,
+      "schedule_B_high_tahitian_D6_8str_lbf": 58.17,
+      "schedule_C_all_fourths_5str_lbf": 39.62,
+      "schedule_C_per_string_spread_lbf": 0.391,
+      "schedule_D_andean_10str_lbf": 59.91
+    },
+    "gate4_swoopty_doo_aud_trk_09_alignment": {
+      "passed": true,
+      "measured_open_E4_cents": -1.25,
+      "measured_open_A4_cents": -4.77,
+      "schedule_A_matches_woods_open_courses": true
+    }
+  },
+  "exit_state": "CODE_SHOKUNIN_UNLATCHED = 255"
+}

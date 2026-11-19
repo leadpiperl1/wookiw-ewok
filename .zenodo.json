@@ -1,10 +1,10 @@
 {
-  "title": "Wookiw-Ewok (WikiWeWalk) Decentralized Open-Source Commons Wiki (v5.0.3): Na-Den\u00e9 & Bergson Waveguides and Dandelion Pearls",
+  "title": "Wookiw-Ewok (WikiWeWalk) Decentralized Open-Source Commons Wiki (v5.1.0): Acoustic Swoopty-Doo, Polynesian Rapa Nui Uku Luthier Metrology, Gaia Beat & Pretty Noise Lab",
   "upload_type": "publication",
   "publication_type": "technicalnote",
-  "version": "5.0.3",
-  "publication_date": "2026-11-11",
-  "description": "Decentralized open-commons encyclopedia preserving reproducible research Pearls, the Na-Dene (Dine Bizaad) & Bergson Matter and Memory Human-AI channel study, and Madras Sanctuary field guides.",
+  "version": "5.1.0",
+  "publication_date": "2026-11-19",
+  "description": "Decentralized open-commons encyclopedia preserving reproducible research Pearls, Acoustic Swoopty-Doo & Kembali Waveguide (v1.1.0), Polynesian Luthier Metrology & Rapa Nui Uku 1:1 Rebuild (v1.0.0), The Gaia Beat Wall Synthesis (v1.1.0), The Pretty Noise Lab Field Guide (v1.2.0), and Na-Dene / Universal Abugida waveguides.",
   "creators": [
     {
       "name": "Grimm, Justin D.",
@@ -13,5 +13,27 @@
     }
   ],
   "access_right": "open",
-  "license": "cc-by-4.0"
+  "license": "cc-by-4.0",
+  "related_identifiers": [
+    {
+      "scheme": "url",
+      "identifier": "https://github.com/leadpiperl1/wookiw-ewok",
+      "relation": "isSupplementTo"
+    },
+    {
+      "scheme": "doi",
+      "identifier": "10.5281/zenodo.21255229",
+      "relation": "continues"
+    },
+    {
+      "scheme": "doi",
+      "identifier": "10.5281/zenodo.24211343",
+      "relation": "cites"
+    },
+    {
+      "scheme": "doi",
+      "identifier": "10.5281/zenodo.24288018",
+      "relation": "cites"
+    }
+  ]
 }
