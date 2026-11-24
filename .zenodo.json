@@ -1,10 +1,10 @@
 {
-  "title": "Wookiw-Ewok (WikiWeWalk) Decentralized Open-Source Commons Wiki (v5.1.0): Acoustic Swoopty-Doo, Polynesian Rapa Nui Uku Luthier Metrology, Gaia Beat & Pretty Noise Lab",
+  "title": "Wookiw-Ewok (WikiWeWalk) Decentralized Open-Source Commons Wiki (v5.2.0): Acoustic Swoopty-Doo, Rapa Nui Uku Luthier Metrology, Gaia Beat, Pretty Noise Lab & Nov 24 Commons Reading Room",
   "upload_type": "publication",
   "publication_type": "technicalnote",
-  "version": "5.1.0",
-  "publication_date": "2026-11-19",
-  "description": "Decentralized open-commons encyclopedia preserving reproducible research Pearls, Acoustic Swoopty-Doo & Kembali Waveguide (v1.1.0), Polynesian Luthier Metrology & Rapa Nui Uku 1:1 Rebuild (v1.0.0), The Gaia Beat Wall Synthesis (v1.1.0), The Pretty Noise Lab Field Guide (v1.2.0), and Na-Dene / Universal Abugida waveguides.",
+  "version": "5.2.0",
+  "publication_date": "2026-11-24",
+  "description": "Decentralized open-commons encyclopedia preserving reproducible research Pearls, Acoustic Swoopty-Doo & Kembali Waveguide (v1.1.0), Polynesian Luthier Metrology & Rapa Nui Uku 1:1 Rebuild (v1.0.0), The Gaia Beat Wall Synthesis (v1.1.0), The Pretty Noise Lab Field Guide (v1.2.0), Na-Dene / Universal Abugida waveguides, and Nov 24 Open Commons reading-room references (Bantu/Dahl/Kembali Huye, Napowawaenakaulua, Welopo'ai Triple, 405-kyr Eccentricity, Contralateral Brain Wiring, and Hippocampal/EEG Localizer) hardened under Waystation wfx-loot immunity (14-day Dependabot cooldown, SHA-pinned CI, Ed25519 SSH signing).",
   "creators": [
     {
       "name": "Grimm, Justin D.",
@@ -15,25 +15,15 @@
   "access_right": "open",
   "license": "cc-by-4.0",
   "related_identifiers": [
-    {
-      "scheme": "url",
-      "identifier": "https://github.com/leadpiperl1/wookiw-ewok",
-      "relation": "isSupplementTo"
-    },
-    {
-      "scheme": "doi",
-      "identifier": "10.5281/zenodo.21255229",
-      "relation": "continues"
-    },
-    {
-      "scheme": "doi",
-      "identifier": "10.5281/zenodo.24211343",
-      "relation": "cites"
-    },
-    {
-      "scheme": "doi",
-      "identifier": "10.5281/zenodo.24288018",
-      "relation": "cites"
-    }
+    { "scheme": "url", "identifier": "https://github.com/leadpiperl1/wookiw-ewok", "relation": "isSupplementTo" },
+    { "scheme": "doi", "identifier": "10.5281/zenodo.21255229", "relation": "continues" },
+    { "scheme": "doi", "identifier": "10.5281/zenodo.24211343", "relation": "cites" },
+    { "scheme": "doi", "identifier": "10.5281/zenodo.24288018", "relation": "cites" },
+    { "scheme": "doi", "identifier": "10.5281/zenodo.24509391", "relation": "cites" },
+    { "scheme": "doi", "identifier": "10.5281/zenodo.24509421", "relation": "cites" },
+    { "scheme": "doi", "identifier": "10.5281/zenodo.24510131", "relation": "cites" },
+    { "scheme": "doi", "identifier": "10.5281/zenodo.24510216", "relation": "cites" },
+    { "scheme": "doi", "identifier": "10.5281/zenodo.24510222", "relation": "cites" },
+    { "scheme": "doi", "identifier": "10.5281/zenodo.24510228", "relation": "cites" }
   ]
 }

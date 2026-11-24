@@ -1,19 +1,19 @@
 {
   "protocol": "DND3-WAYSTATION-PUNCHCARD",
-  "schema_version": "1.2.0",
+  "schema_version": "1.3.0",
   "repository": "leadpiperl1/wookiw-ewok",
-  "version": "v5.1.0",
-  "timestamp_utc": "2026-11-19T18:12:14Z",
-  "pre_punch_git_tree_hash": "ebc5ed6bf4dd7d8a4bd5437f160b5e2bd3adcc20",
+  "waystation_branch": "waystation/v5.2.0",
+  "version": "v5.2.0",
+  "timestamp_utc": "2026-11-24T22:59:30Z",
+  "pre_punch_git_tree_hash": "b9c50f47fdaa40ed5c949d5c2ee1325720344e26",
   "runner_secrets_exposed": 0,
   "npm_lifecycle_scripts": 0,
+  "dependabot_cooldown_days": 14,
+  "seed": 42,
   "tuttle_27b6_drywall_bypass": true,
-  "two_tide_windows_cst": [
-    "09:00",
-    "18:00"
-  ],
-  "ssh_signed": false,
-  "human_approved": true,
-  "status": "PUNCHED_AND_CLEARED",
+  "two_tide_windows_cst": ["09:00", "18:00"],
+  "ssh_signed": true,
+  "human_approved": false,
+  "status": "STAGED_AT_WAYSTATION",
   "exit_invariant": 255
 }

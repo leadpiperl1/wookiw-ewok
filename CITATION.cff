@@ -1,8 +1,8 @@
 cff-version: 1.2.0
 message: "If you reference these commons notes, luthier plans, or acoustic waveguides, please cite as below."
-title: "Wookiw-Ewok (WikiWeWalk) Decentralized Open-Source Commons Wiki (v5.1.0)"
-version: 5.1.0
-date-released: 2026-11-19
+title: "Wookiw-Ewok (WikiWeWalk) Decentralized Open-Source Commons Wiki (v5.2.0)"
+version: 5.2.0
+date-released: 2026-11-24
 license: CC-BY-4.0
 repository-code: "https://github.com/leadpiperl1/wookiw-ewok"
 authors:
@@ -10,3 +10,25 @@ authors:
     given-names: "Justin D."
     affiliation: "Independent Dandelion Substrate Research Group, Gurley, Alabama 35748, USA"
     orcid: "https://orcid.org/0009-0000-5299-0243"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.21255229
+    description: "Foundational Dandelion Substrate & Metrological Calibration Preprint"
+  - type: doi
+    value: 10.5281/zenodo.24509391
+    description: "Welopo'ai Hierarchical Triple Boundary Audit (v1.0.0)"
+  - type: doi
+    value: 10.5281/zenodo.24509421
+    description: "Bantu / Dahl / Kembali Huye Field Kit (v1.1.0)"
+  - type: doi
+    value: 10.5281/zenodo.24510131
+    description: "Napowawaenakaulua Preprint & Repro Suite (v1.0.0)"
+  - type: doi
+    value: 10.5281/zenodo.24510216
+    description: "Contralateral Brain Wiring & Optic-Chiasm Parsimony (v1.1.0)"
+  - type: doi
+    value: 10.5281/zenodo.24510222
+    description: "Astronomical 405-kyr Eccentricity & Core-Mantle Waveguide (v2.5.0)"
+  - type: doi
+    value: 10.5281/zenodo.24510228
+    description: "Hippocampal Trajectory Manifolds & 60s EEG Localizer (v3.16.0)"
