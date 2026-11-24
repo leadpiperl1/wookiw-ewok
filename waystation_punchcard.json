@@ -4,16 +4,19 @@
   "repository": "leadpiperl1/wookiw-ewok",
   "waystation_branch": "waystation/v5.2.0",
   "version": "v5.2.0",
-  "timestamp_utc": "2026-11-24T22:59:30Z",
+  "timestamp_utc": "2026-11-24T23:29:27Z",
   "pre_punch_git_tree_hash": "b9c50f47fdaa40ed5c949d5c2ee1325720344e26",
   "runner_secrets_exposed": 0,
   "npm_lifecycle_scripts": 0,
   "dependabot_cooldown_days": 14,
   "seed": 42,
   "tuttle_27b6_drywall_bypass": true,
-  "two_tide_windows_cst": ["09:00", "18:00"],
+  "two_tide_windows_cst": [
+    "09:00",
+    "18:00"
+  ],
   "ssh_signed": true,
-  "human_approved": false,
-  "status": "STAGED_AT_WAYSTATION",
+  "human_approved": true,
+  "status": "PUNCHED_AND_CLEARED",
   "exit_invariant": 255
 }
